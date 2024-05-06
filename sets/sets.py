@@ -1,0 +1,16 @@
+s1 = {"hungarian", "english", "german"}
+s2 = set()
+s2.add("italian")
+s2.add("german")
+print(s1)
+print(s2)
+print("-----------------------------------------")
+# Set operations: intersection, union, difference, symmentric difference (delta, xor)
+print(s1 & s2)
+print(s1 | s2)
+print(s1 - s2)
+print(s1 ^ s2)
+s2 = s1|s2
+print(s2)
+s2 = s2.pop()
+print(s2)
