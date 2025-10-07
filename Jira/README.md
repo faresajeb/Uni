@@ -1,4 +1,4 @@
-# Workforce Management Test Data – Time Management Test
+  # Workforce Management Test Data – Time Management Test
 
 This repository contains **JSON files** designed to simulate **workforce management and time tracking** in Jira Cloud.
 
@@ -73,4 +73,4 @@ This project simulates **realistic workforce activity** inside Jira to test:
 👥 Contributors
 
 Fares Ajeb,
-Amaan Memon
+Amaan Memon: https://github.com/AmaanMemonJ/JiraProject/tree/main
